@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /paginas/cobranzasyestrategias.com.co/wp-admin/
+Allow: /paginas/cobranzasyestrategias.com.co/wp-admin/admin-ajax.php
+Sitemap: https://cobranzasyestrategias.com.co/post-sitemap.xml
